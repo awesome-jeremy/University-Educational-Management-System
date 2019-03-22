@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/apache-tomcat-9.0.0.M11/lib" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-9.0.0.M11/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-9.0.0.M11/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/mysql-connector-java-5.1.6-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/apache-tomcat-9.0.0.M11/lib" recursive="false" />
+  </library>
+</component>

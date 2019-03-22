@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context reloadable="true">
+    <Resource
+            name="jdbc/For_Educational_Management_System"
+            auth="Container"
+            type="javax.sql.DataSource"
+            maxTotal="200"
+            maxIdle="80"
+            maxWaitMillis="5000"
+            username="root"
+            password="root"
+            driverClassName="com.mysql.jdbc.Driver"
+            url="jdbc:mysql://localhost:3306/db_Educational_Management_System"
+    />
+
+</Context>
