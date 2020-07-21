@@ -1,69 +1,67 @@
-# Project1: Educational Management System
+# University Educational System
 
-## Statement
 
-I did this project when I was doing my bachelor in China. I used a template called "ace" to design my web pages to make the website look nice and clear, making a few minor changes. I did the back-end(Java) and database design(SQL) myself.
 
-## Techniques I used
+## Tech Stack
 
 1. CSS/HTML/JS
-2. JQuery
-3. SQL
-4. Java
+2. Bootstrap, ace tempalte
+3. JSP, DOM, AJAX, jQuery
+4. SQL
+5. Java
    - servlet
    - DAO
    - javabean
-   - listener
-   - filter
+
+------
+
+**Target Users:**
+
+1. System Administrator
+2. Teacher
+3. Student
+
+![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=c142f76a077a0b61e7fccbb60062cca5_8f118824ce50c961_boxus4bTRYjvhXyw1CERWo4uW0c_VgUJD5EBY6DlGEGyyqkp21yk9o6cEjzg)
 
 
 
-## Functions implemented
+Functionalites:**
 
-- Welcome Page! (Login function)
+- System Administrator
 
-![Welcome_page(login)](demo_image/Welcome_page(login).png)
+- - Student Information Management
 
-- For administrator
+![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=95d38a1877bb3483af23ef29f03c0ab7_8f118824ce50c961_boxusu9ulkCKZ8oJRU5qB0T6hEc_LFG6mN28S1NE0tQso1l8MgqlpPgQ2gRr)
 
-  1. CRUD student information
-     ![addStudentInfo](demo_image/addStudentInfo.png)
+- - Teacher Information Management
 
-     ![showStudentInfo](demo_image/showStudentInfo.png)
+![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=b198c21cc4f67ceba074ff9731421200_8f118824ce50c961_boxusNZTlYgLJEtaVnPxBg5nwCc_y5pzkKvQ1XzRZwQu6cHh5YjjM0ZAk2Fk)
 
-  2. CRUD unit information
-     ![addUnit](demo_image/addUnit.png)
+- - Course Management
 
-  3. CRUD teacher information
+![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=4681db821f76059a16209c2dfe0dd6fe_8f118824ce50c961_boxusvFC3arr9JmcrlvkEKhdi39_xTOzO8mNUgm3yBmjLf1CAQcgv5FsrmKv)
 
-  4. CRUD classroom information
+- - Classroom Management
 
-     
+- Teacher
 
-- For students
-  1. Enrolling units
-     ![enrolUnits](demo_image/enrolUnits.png)
-  2. Timetable
-     ![timetable](demo_image/timetable.png)
-  3. Grade
-     ![grade](demo_image/grade.png)
-  4. Giving comments on teachers
-     ![giveCommentsOnTeachers](demo_image/giveCommentsOnTeachers.png)
-  5. Asking teacher questions
-     ![AskingTeacherQuestions](demo_image/AskingTeacherQuestions.png)
+- - Grading
 
-- For teachers
+- - Viewing comments from students
 
-  1. Mark
-     ![mark](demo_image/mark.png)
+- - Q&A
 
-  2. View feedback from students
-     ![view_feedback](demo_image/view_feedback.png)
+- Student
 
-  3. Answer questions from students
-     ![answer_questions1](demo_image/answer_questions1.png)
+- - Unit registering
 
-     ![answer_questions2](demo_image/answer_questions2.png)
+- - Timetable
 
----
+- - Grades 
+
+- - Unit survey
+
+- - Q&A
+
+![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=dfabb07c71d0232c0200c5e9bc01dc9f_8f118824ce50c961_boxuszWQSYfh37iyhTgF4mTtj1b_YD1AR31qait2nYFHSaVe51ktgQW48bPq)
 
