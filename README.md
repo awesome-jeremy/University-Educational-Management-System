@@ -25,43 +25,47 @@
 
 
 
-Functionalites:**
+**Functionalites:**
 
-- System Administrator
+1. **System Administrator**
 
-- - Student Information Management
+- Student Information Management
 
 ![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=95d38a1877bb3483af23ef29f03c0ab7_8f118824ce50c961_boxusu9ulkCKZ8oJRU5qB0T6hEc_LFG6mN28S1NE0tQso1l8MgqlpPgQ2gRr)
 
-- - Teacher Information Management
+- Teacher Information Management
 
 ![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=b198c21cc4f67ceba074ff9731421200_8f118824ce50c961_boxusNZTlYgLJEtaVnPxBg5nwCc_y5pzkKvQ1XzRZwQu6cHh5YjjM0ZAk2Fk)
 
-- - Course Management
+- Course Management
 
 ![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=4681db821f76059a16209c2dfe0dd6fe_8f118824ce50c961_boxusvFC3arr9JmcrlvkEKhdi39_xTOzO8mNUgm3yBmjLf1CAQcgv5FsrmKv)
 
-- - Classroom Management
+- Classroom Management
 
-- Teacher
 
-- - Grading
 
-- - Viewing comments from students
+2. **Teacher**
 
-- - Q&A
+- Grading
 
-- Student
+- Viewing comments from students
 
-- - Unit registering
+- Q&A
 
-- - Timetable
 
-- - Grades 
 
-- - Unit survey
+3. **Student**
 
-- - Q&A
+- Unit registering
+
+- Timetable
+
+- Grades 
+
+- Unit survey
+
+- Q&A
 
 ![img](https://internal-api-space.larksuite.com/space/api/box/stream/download/asynccode/?code=dfabb07c71d0232c0200c5e9bc01dc9f_8f118824ce50c961_boxuszWQSYfh37iyhTgF4mTtj1b_YD1AR31qait2nYFHSaVe51ktgQW48bPq)
 
